@@ -134,9 +134,13 @@ https://github.com/m-rcd/made-to-help/wiki
 ## <a name="engineers">**MADE Engineers**</a>
 
 [Marianne Rachid][3]
+
 [Alex Kharouk][4]
+
 [Darcie Walsh][2]
+
 [Emma Albury][1]
+
 [1]: https://github.com/emmaalbury
 [2]: https://github.com/darciew
 [3]: https://github.com/m-rcd
